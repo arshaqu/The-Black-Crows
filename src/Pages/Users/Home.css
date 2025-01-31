@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Kolker+Brush&family=Merienda:wght@300..900&family=Tapestry&display=swap');
+
+.tapestry {
+  font-family: "Tapestry", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.kolker  {
+  font-family: "Kolker Brush", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.merienda {
+  font-family: "Merienda", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
