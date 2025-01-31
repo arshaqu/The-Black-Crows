@@ -74,7 +74,7 @@ function Register() {
                          type="Phone"
                          placeholder="Enter Your Phone Number"
                          className="border w-full h-14 px-4 mt-2 mb-4 rounded-md focus:outline-none focus:ring-2 focus:ring-indigo-400 montserrat"
-                         value={password}
+                         value={phone}
                          onChange={(e) => setPhone(e.target.value)}
                      />
 

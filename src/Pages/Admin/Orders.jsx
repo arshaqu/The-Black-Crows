@@ -107,7 +107,7 @@ function Orders() {
                 <td className="px-6 py-4">$2999</td>
                 <td className="px-6 py-4">Delivered</td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-white-600 dark:text-white-500 hover:underline">
+                  <a href=' # ' className="font-medium text-white-600 dark:text-white-500 hover:underline">
                     Edit
                   </a>
                 </td>
@@ -130,7 +130,7 @@ function Orders() {
                 <td className="px-6 py-4">$2999</td>
                 <td className="px-6 py-4">Delivered</td>
                 <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-white-600 dark:text-white-500 hover:underline">
+                  <a href=' # '  className="font-medium text-white-600 dark:text-white-500 hover:underline">
                     Edit
                   </a>
                 </td>

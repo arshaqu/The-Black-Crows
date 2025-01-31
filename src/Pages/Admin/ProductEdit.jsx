@@ -61,7 +61,8 @@ function ProductEdit() {
   useEffect(() => {
     getData();
     getSize();
-  }, []);
+    // eslint-disable-next-line
+  },[]);
 
   return (
     <div className="flex flex-col md:flex-row">

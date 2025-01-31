@@ -91,12 +91,12 @@ function ProductList() {
                                         <td className="px-6 py-4">{product.Product_size}</td>
                                         <td className="px-6 py-4">${product.Product_price}</td>
                                         <td className="px-6 py-4">
-                                            <a href="#" onClick={() => {handleOnEdit(product.id)}} className="font-medium text-green-500 hover:underline">
+                                            <a href=" # " onClick={() => {handleOnEdit(product.id)}} className="font-medium text-green-500 hover:underline">
                                                 Edit
                                             </a>
                                         </td>
                                         <td className="px-6 py-4">
-                                            <a href="#" onClick={()=>{handleOnDelete(product.id)}} className="font-medium text-red-500 hover:underline">
+                                            <a href=" # " onClick={()=>{handleOnDelete(product.id)}} className="font-medium text-red-500 hover:underline">
                                                 Delete
                                             </a>
                                         </td>

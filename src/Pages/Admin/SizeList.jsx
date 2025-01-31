@@ -87,12 +87,12 @@ function SizeList() {
                                                 {item.Product_size || 'N/A'}
                                             </td>
                                             <td className="px-6 py-4">
-                                                <a href="#" onClick={()=>{handleOnEdit(item.id)} } className="font-medium text-white hover:underline">
+                                                <a href=" # " onClick={()=>{handleOnEdit(item.id)} } className="font-medium text-white hover:underline">
                                                     Edit
                                                 </a>
                                             </td>
                                             <td className="px-6 py-4">
-                                                <a onClick={()=>{handleDelete(item.id)}} href="#" className="font-medium text-white hover:underline montserrat">
+                                                <a onClick={()=>{handleDelete(item.id)}} href=" # " className="font-medium text-white hover:underline montserrat">
                                                     Delete
                                                 </a>
                                             </td>
