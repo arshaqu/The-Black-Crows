@@ -47,7 +47,7 @@ function Register() {
                          type="email"
                          placeholder="Enter Your Name"
                          className="border w-full h-14 px-4 mt-2 mb-4 rounded-md focus:outline-none focus:ring-2 focus:ring-black-400 montserrat"
-                         value={Name}
+                         value={name}
                          onChange={(e) => setName(e.target.value)}
                      />
 
